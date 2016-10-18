@@ -2,7 +2,7 @@
 1CRedit
 =======
 
-Launch date: April 21st, 2014 
+Launch date: April 21st, 2014 by Cassey
 
 History:  1CRedit was created to be the 4th coin in the game 1BillionHex.  
 Although a game coin in the sense of that being the driver, it is a fully 
@@ -16,6 +16,7 @@ Long block times and high confirmation requirements should minimize fork
 opportunities.  They will tend to make this an "investment" coin rather than a 
 "transaction" code.
 
+In october 2016, dnaleor took over the 1Credit project.
 
 ----
 
@@ -56,6 +57,15 @@ Listen:   6666 (16666 for testnet)
 
 JSON-RPC: 6667 (16667 for testnet)
 
+Roadmap
+-------
+
+Changing mining algorithm to something CPU friendly, so counter the ASIC scrypt attacks
+Possibly changing the difficulty algorithm if needed to make the block times more regular
+Implementing a dynamic block size limit
+Mobile wallets for smartphones
+Research into free transactions using TXPOW
+
 License
 -------
 
@@ -77,15 +87,10 @@ https://bitcointalk.org/index.php?topic=149479.0
 And all the folks responsible for QT, MingW32, and the other tools used to 
 build the Windows version of this.
 
-Development of 1CRedit was done using a Gentoo Linux environment.
+Development of 1CRedit was done using a Gentoo Linux environment by Cassey until september 2016
 
 Donations
 ----------
 
-Although not support as of this writing, Cryptsy makes all us altcoins 
-practical.  Please show your support by using this referral link:
-
-https://www.cryptsy.com/users/register?refid=150844
-Our trade key at Cryptsy:  588db94f3b0f7a85c7530c90c9b13246a14ca50c
-Direct BTC: 1HRWTYCwL5fA9LjbHLdRTdZ9TwU5TNMgjt
-Direct LTC: LfHFVK3SaUVuyz5kF2rYU6jFY1fsTc81ur
+Direct 1CR: CLCqECaYpCahgKRsXJiVBzgsiz57ZHfr4u
+Direct BTC: 16TwXyEmpz7xKHbyVufZECXGFmUH9wHUyW
