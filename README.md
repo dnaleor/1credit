@@ -61,9 +61,13 @@ Roadmap
 -------
 
 Changing mining algorithm to something CPU friendly, so counter the ASIC scrypt attacks
+
 Possibly changing the difficulty algorithm if needed to make the block times more regular
+
 Implementing a dynamic block size limit
+
 Mobile wallets for smartphones
+
 Research into free transactions using TXPOW
 
 License
@@ -93,4 +97,5 @@ Donations
 ----------
 
 Direct 1CR: CLCqECaYpCahgKRsXJiVBzgsiz57ZHfr4u
+
 Direct BTC: 16TwXyEmpz7xKHbyVufZECXGFmUH9wHUyW
